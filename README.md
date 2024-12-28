@@ -6,6 +6,23 @@ A multiplayer implementation of Battleship in Haskell
 
 **Milestone 1 Completed**: Core game logic implemented and tested
 
+**Milestone 2 Completed**: Text-based UI and local multiplayer implemented
+
+## Playing the Game
+
+Run the game using Cabal:
+
+```bash
+cabal run
+```
+
+The game supports local two-player gameplay with:
+* Interactive ship placement
+* Clear board visualization
+* Turn-based gameplay
+* Hit/miss feedback
+* Ship sinking notifications
+
 ## Testing
 
 Run tests using Cabal:
